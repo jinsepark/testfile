@@ -14,4 +14,4 @@
 !.[이미지].(./images/클러치.jpg)
 
 .[사이트로 바로가기].(https://www.naver.com)
-.[사이트로 바로가기].(.images/)
+.[로 바로가기].(.images/)
